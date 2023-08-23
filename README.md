@@ -29,4 +29,4 @@ Skills: PYTHON/C/EXCEL/HTML
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alsani-ipe)  
 
-![Profile views](https://gpvc.arturio.dev/alsani-ipe)  
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
