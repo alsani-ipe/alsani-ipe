@@ -25,7 +25,7 @@ Skills: PYTHON/C/EXCEL/HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alsani-ipe&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alsani-ipe)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsani-ipe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alsani-ipe)  
 
