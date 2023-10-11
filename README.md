@@ -1,4 +1,4 @@
-![I'm an Industrial Engineer & AI enthusiastic person](http://alsani.me/wp-content/uploads/2023/08/alsani-banner.png)
+![I'm an Industrial Engineer & AI enthusiastic person](https://github.com/alsani-ipe/alsani-ipe/blob/main/data/alsanibanner.png)
 
 ###### Welcome To My Profile
 #### I'm an Industrial Engineer & AI enthusiastic person
