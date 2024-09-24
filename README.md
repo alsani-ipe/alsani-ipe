@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning Machine Learning                       
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Deep Learning Projects 
-- 📫 How to reach me: www.alsani.engineer 
+- 🤔 I’m looking for help with Deep Learning Projects  
 - ⚡ Fun fact: Coding, Traveling
 
 <br/>  
