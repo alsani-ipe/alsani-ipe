@@ -1,3 +1,4 @@
+ ![github](https://github.com/user-attachments/assets/82507645-932e-49be-83fa-e444d681b5bc)
 ###### Welcome To My Profile
 #### I'm an Industrial Engineer & AI enthusiastic person
 
@@ -6,7 +7,8 @@
 - 🔭 I’m currently working on Student 
 - 🌱 I’m currently learning Machine Learning                       
 - 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Deep Learning Projects  
+- 🤔 I’m looking for help with Deep Learning Projects 
+
 - ⚡ Fun fact: Coding, Traveling
 
 <br/>  
